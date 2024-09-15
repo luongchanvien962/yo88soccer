@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+YO88
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Yo88 <https://yo88.soccer/>`_ cổng game bài cá cược trực tuyến HOT nhất hiện nay. Đa dạng các thể loại game nổi tiếng như: rồng hổ, tài xỉu, tiến lên.... với trải nghiệm hoàn toàn mới. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Địa chỉ: 42/43 D. Đức Hiền, Tây Thạnh, Tân Phú, Hồ Chí Minh, Vietnam. 
 
-   This project is under active development.
+Phone: 0791326598. 
 
-Contents
---------
+Email: yo88soccer@gmail.com. 
 
-.. toctree::
+Website: https://yo88.soccer/ 
 
-   usage
-   api
+#yo88, #conggamebaiyo88, #conggameyo88, #gamebaiyo88
